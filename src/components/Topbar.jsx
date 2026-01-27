@@ -85,7 +85,7 @@ export default function TopBar({ menuItems = [], onSelect }) {
               className="w-9 h-9 rounded-full object-cover"
             />
             <div className="text-sm leading-tight">
-              <p className="font-medium text-gray-700">John Doe</p>
+              <p className="font-medium text-gray-700">KASU</p>
               <p className="text-xs text-gray-400">Admin</p>
             </div>
           </div>
@@ -104,7 +104,7 @@ export default function TopBar({ menuItems = [], onSelect }) {
                   <span className="absolute bottom-0 right-0 w-3 h-3 bg-green-400 rounded-full border-2 border-[#2f3349]" />
                 </div>
                 <div>
-                  <p className="font-semibold">John Doe</p>
+                  <p className="font-semibold">KASU</p>
                   <p className="text-xs text-white/60">Admin</p>
                 </div>
               </div>
